@@ -1,6 +1,7 @@
 <?php
 $a = $b = 10;
+$c = 30;
 
-$sum = $a + $b;
+$sum = $a + $b + $c;
 
 echo $sum;
